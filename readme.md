@@ -3,8 +3,8 @@ YOU HAVE LANDED IN THE MOST INTELLIGENT WORLD
 
 <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px">
 ## About me
-<img src="https://github.com/mjvithesh/mjvithesh/images/left_ponter.png" height="50px" width="50px">
-
+ <img src="https://github.com/mjvithesh/mjvithesh/images/left_ponter.png" height="50px" width="50px"> 
+![](https://github.com/mjvithesh/mjvithesh/images/left_ponter.png)
 ## SA RE GA MA PA DA NE SA
 - 🔭 I’m currently working on A LOT OF THINGS
 - 🌱 I’m currently learning A LOT OF THINGS
