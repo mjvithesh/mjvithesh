@@ -5,7 +5,6 @@ YOU HAVE LANDED IN THE MOST INTELLIGENT WORLD
 
 ## About me
 👈
-![](images/left_ponter.png)
 
 ## Find Me Elsewhere
 
