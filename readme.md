@@ -10,6 +10,7 @@ YOU HAVE LANDED IN THE MOST INTELLIGENT WORLD
 
 <a href="https://twitter.com/jayavithesh" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" height="50px" width="50px" alt="Twitter"></a>
 <a href="https://www.linkedin.com/in/mj-vithesh/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="50px" width="50px" alt="Linkedin"></a>
+<a href="https://www.instagram.com/mj_vithesh/" target="_blank"><img src="https://i.pinimg.com/236x/6a/ba/fc/6abafc395cc6836301aa03afeae0606b.jpg" height="50px" width="50px" alt="insta"></a>
 
 
 ## SA RE GA MA PA DA NE SA
