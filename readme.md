@@ -8,7 +8,9 @@ YOU HAVE LANDED IN THE MOST INTELLIGENT WORLD
 
 ## Find Me Elsewhere
 
-<a href="https://twitter.com/jayavithesh" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" height="50px" width="50px" alt="Twitter"></a><a href="https://www.linkedin.com/in/mj-vithesh/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="50px" width="50px" alt="Twitter"></a>
+<a href="https://twitter.com/jayavithesh" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" height="50px" width="50px" alt="Twitter"></a>
+<a href="https://www.linkedin.com/in/mj-vithesh/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="50px" width="50px" alt="Linkedin"></a>
+
 
 ## SA RE GA MA PA DA NE SA
 - 🔭 I’m currently working on A LOT OF THINGS
