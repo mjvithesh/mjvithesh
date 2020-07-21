@@ -1,9 +1,9 @@
 ### Hi there 👋
 YOU HAVE LANDED IN THE MOST INTELLIGENT WORLD
-<img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px">
 
+<img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px">
 ## About me
-<img src="images/left_pointer" height="150px" width="150px">
+<img src="images/left_ponter.png" height="150px" width="150px">
 
 ## SA RE GA MA PA DA NE SA
 - 🔭 I’m currently working on A LOT OF THINGS
