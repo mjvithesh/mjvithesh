@@ -5,6 +5,7 @@ YOU HAVE LANDED IN THE MOST INTELLIGENT WORLD
 
 ## About me
 👈
+![](images/left_ponter.png)
 
 ## SA RE GA MA PA DA NE SA
 - 🔭 I’m currently working on A LOT OF THINGS
