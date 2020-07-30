@@ -3,7 +3,7 @@ Welcome To My Github!
 
 <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px">
 
-## About me :Boy:
+## About me :boy:
 👈
 
 ## Find Me Elsewhere :computer:
