@@ -16,7 +16,6 @@ Welcome To My Github!
 </p>
 
 
-## SA RE GA MA PA DA NE SA
 - 🔭 I’m currently working on A LOT OF THINGS
 - 🌱 I’m currently learning A LOT OF THINGS
 - 👯 I’m looking to collaborate on NOTHING COZ I'M THE CREATOR
